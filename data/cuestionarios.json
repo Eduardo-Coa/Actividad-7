@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2baabc25-8a6d-4206-b02b-b0194fe8d95e",
+    "codigo_estudiante": "EST-2026-002",
+    "fecha_aplicacion": "2026-05-19T16:30:00",
+    "respuestas": [
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      3
+    ],
+    "puntaje_total": 23,
+    "nivel_severidad": "Severo"
+  },
+  {
+    "id": "120e050a-1a0c-4665-9b75-33ab4cd9345a",
+    "codigo_estudiante": "EST-2026-003",
+    "fecha_aplicacion": "2026-05-19T16:30:00",
+    "respuestas": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "puntaje_total": 5,
+    "nivel_severidad": "Leve"
+  },
+  {
+    "id": "91b600cd-1b33-4146-9b35-d24ce648ebb8",
+    "codigo_estudiante": "EST-2026-001",
+    "fecha_aplicacion": "2026-05-19T13:50:00",
+    "respuestas": [
+      0,
+      1,
+      0,
+      2,
+      0,
+      1,
+      2,
+      1,
+      2
+    ],
+    "puntaje_total": 9,
+    "nivel_severidad": "Leve"
+  },
+  {
+    "id": "327d0fbf-21fb-4b1a-96d9-4b0f9279fd56",
+    "codigo_estudiante": "EST-2026-004",
+    "fecha_aplicacion": "2026-05-19T14:00:00",
+    "respuestas": [
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      0,
+      3,
+      2
+    ],
+    "puntaje_total": 20,
+    "nivel_severidad": "Severo"
+  },
+  {
+    "id": "730c53b4-9688-4919-8744-a56e1b976066",
+    "codigo_estudiante": "EST-2026-005",
+    "fecha_aplicacion": "2026-05-19T15:00:00",
+    "respuestas": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "puntaje_total": 4,
+    "nivel_severidad": "Mínimo"
+  }
+]
